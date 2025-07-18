@@ -10,9 +10,9 @@
 ---
 
 ### 🧠 About Me
-- 🎓 3rd-year student at GLA University
+- 🎓 Fresher Developer
 - 💼 Passionate about MERN stack, AI, and modern web development
-- 🔭 Currently building: an AI Chat App + Online Marketplace
+- 🔭 Currently building TeamSphere (Discord style colaboration tool)
 - 🧰 Tech stack: React, TypeScript, Node.js, MongoDB, Express, HTML/CSS/JS, Firebase, Git
 
 ---
@@ -24,19 +24,12 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GautamSarraf&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamSarraf&theme=radical" width="47%" />
-</p>
-
----
 
 ### 🌱 Latest Projects
 - 🤖 [AI Chat App (React + OpenAI + MongoDB)](https://github.com/GautamSarraf/ai-chat-app)
 - 🛍️ [MERN Marketplace](https://github.com/GautamSarraf/mern-marketplace)
 - 🎮 [Game X - Gaming Website](https://github.com/GautamSarraf/game-x)
-- 👥 [Team Sphere - Esports Hosting Platform](https://github.com/GautamSarraf/team-sphere)
+- 👥 [Team Sphere - Discord style colaboration tool ](https://github.com/GautamSarraf/team-sphere)
 
 ---
 

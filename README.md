@@ -29,7 +29,7 @@
 - 🤖 [AI Chat App (React + OpenAI + MongoDB)](https://github.com/GautamSarraf/ai-chat-app)
 - 🛍️ [MERN Marketplace](https://github.com/GautamSarraf/mern-marketplace)
 - 🎮 [Game X - Gaming Website](https://github.com/GautamSarraf/game-x)
-- 👥 [Team Sphere - Discord style colaboration tool ](https://github.com/GautamSarraf/team-sphere)
+- 👥 [Team Sphere - Discord style colaboration tool ](https://github.com/Gautam-Sarraf/TeamSphere)
 
 ---
 

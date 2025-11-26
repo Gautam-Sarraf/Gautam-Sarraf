@@ -12,7 +12,7 @@
 ### 🧠 About Me
 - 🎓 Fresher Developer
 - 💼 Passionate about MERN stack, AI, modern web development and Software development
-- 🔭 Currently building TeamSphere (Discord style colaboration tool)
+- 🔭 Currently working on a Python Project (crazy)
 - 🧰 Tech stack: React, TypeScript, Node.js, MongoDB, Express, HTML/CSS/JS, Firebase, Git
 
 ---

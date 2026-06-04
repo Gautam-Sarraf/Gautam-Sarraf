@@ -1,7 +1,7 @@
 # Hi there, I'm Gautam Sarraf 👋
 
 <p align="center">
-  🤖 AI Engineer • 🐍 Python Developer • ⚡ FastAPI Enthusiast <br>
+  🤖 full stack developer • AI Engineer • 🐍 Python Developer • ⚡ FastAPI Enthusiast <br>
   Building intelligent systems, AI agents, and backend infrastructure that actually gets things done.
 </p>
 

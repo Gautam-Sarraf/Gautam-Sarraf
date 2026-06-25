@@ -1,6 +1,6 @@
 # Hi there, I'm Gautam Sarraf 👋
 
-<p align="center"> <img src="https://i.pinimg.com/originals/c1/c3/77/c1c377b1f46498cd6631880583db5d58.gif" width="700"> </p>
+<p align="center"> <img src="peace.gif" width="700"> </p>
 
 <p align="center">
   🤖 full stack developer • AI Engineer • 🐍 Python Developer • ⚡ FastAPI Enthusiast <br>

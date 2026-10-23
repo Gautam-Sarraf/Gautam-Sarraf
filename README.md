@@ -33,7 +33,7 @@ My work sits at the intersection of:
 - 🗄️ **PostgreSQL & Data Engineering**
 - 🏗️ **System Design & Production Infrastructure**
 
-Currently, I'm working on **Dizclsr**, a disclosure intelligence platform where I'm focused primarily on backend engineering and document intelligence.
+Currently, I’m working on the **TWF Database Migration** project, focusing on backend engineering, AI-powered document intelligence, automated PDF and spreadsheet extraction, and financial data processing.
 
 Outside of work, I enjoy building automation systems, experimenting with AI agents, breaking down complex engineering problems, and occasionally going way too deep into system design rabbit holes.
 

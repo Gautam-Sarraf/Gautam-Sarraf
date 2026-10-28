@@ -87,52 +87,6 @@ I enjoy building systems that remove repetitive human work.
 
 ---
 
-# 🏗️ Currently Building
-
-## 📊 Dizclsr — Disclosure Intelligence Platform
-
-I'm currently working on the backend of **Dizclsr**, a financial disclosure intelligence platform designed to process and analyze corporate disclosures.
-
-The system works with financial-market data and disclosure documents from sources such as **BSE and NSE** and transforms unstructured information into structured, actionable data.
-
-### My work includes:
-
-- 📄 Document intelligence
-- 🔍 Disclosure & resolution extraction
-- 🧠 AI-assisted information processing
-- 📰 Live financial media ingestion
-- 🔗 Disclosure relationship detection
-- 📊 Market signal analysis
-- ⚙️ Background processing pipelines
-- 🗄️ PostgreSQL-backed data systems
-- 🚀 Production backend architecture
-
-### Document Engine
-
-One of the core components I'm currently working on is the **Document Engine**.
-
-It's a Python-based processing system responsible for extracting structured information from disclosure documents, primarily PDFs.
-
-```text
-Disclosure Document
-        ↓
-   Document Engine
-        ↓
- PDF Extraction / Parsing
-        ↓
- Structured Information
-        ↓
-      JSON
-        ↓
- Node.js Backend
-        ↓
-    PostgreSQL
-```
-
-The engine is intentionally separated from business logic, allowing document extraction and backend processing to remain independently maintainable and scalable.
-
----
-
 # 🤖 AI & Agentic Systems
 
 I've worked on AI systems designed to perform more than just text generation.

@@ -120,49 +120,6 @@ This includes:
 
 My goal is to build **AI systems that can actually operate inside production workflows**, rather than isolated AI demos.
 
----
-
-# 🔥 Previous Work
-
-## 🏦 CP-KYC — AI-Powered KYC Automation
-
-An AI-powered compliance automation platform designed to reduce manual KYC and company research workflows.
-
-### Built around:
-
-- 🤖 AI Agents
-- 🧠 LangGraph
-- ⚡ FastAPI
-- 🕷️ Web Scraping
-- 📄 Document Processing
-- 🗄️ PostgreSQL
-- 🔄 Automated Data Pipelines
-- 🧩 Multiple external data sources
-
-The system automates research and information collection across financial and corporate data sources and converts the collected information into structured KYC intelligence.
-
----
-
-## 📱 Device & Social Automation Infrastructure
-
-I've also worked on large-scale device automation systems involving:
-
-- Android device orchestration
-- Automated application workflows
-- ADB / Fastboot
-- ROM provisioning
-- Device identity management
-- Python automation
-- UI automation
-- Proxy infrastructure
-- Scheduling systems
-- Automated verification
-- Failure recovery
-- Monitoring & reporting
-
-The interesting part wasn't simply automating a phone — it was building the **orchestration layer around an entire fleet of devices**.
-
----
 
 # 🧰 Tech Arsenal
 
